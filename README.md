@@ -2,11 +2,13 @@
 HI! In this repository you can find some of my animation exercises. 🔮
 
 ### 🪐 [Rotating Rings Animation](https://rotating-rings-scss.stackblitz.io)
-
 [StackBlitz](https://stackblitz.com/edit/rotating-rings-scss?file=index.js)
 
 ### 💫[Circles Animation](https://sphere-scss.stackblitz.io)
 [StackBlitz](https://stackblitz.com/edit/sphere-scss?file=index.js)
+
+### 🕸️[Squares To Circle Animation](https://squares-animation-sccs.stackblitz.io)
+[StackBlitz](https://stackblitz.com/edit/squares-animation-sccs?file=index.js)
 
 ### 🎊 [Confetti-Box Animation](https://confeti-box-2.stackblitz.io)
 [StackBlitz](https://stackblitz.com/edit/confeti-box-2?file=index.js)
