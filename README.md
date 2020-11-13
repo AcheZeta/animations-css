@@ -23,4 +23,4 @@ HI! In this repository you can find some of my animation exercises. 🔮
 [StackBlitz](https://stackblitz.com/edit/pildora-css?file=index.js)
 
 ### 🖱️ [Scroll Animation](https://scroll-animation.stackblitz.io)
-[StackBlitz](https://stackblitz.com/edit/squares-animation-sccs)
+[StackBlitz](https://stackblitz.com/edit/scroll-animation?file=index.js)
